@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\bin\Debug\net6.0\Exampel_3.exe
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\bin\Debug\net6.0\Exampel_3.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\bin\Debug\net6.0\Exampel_3.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\bin\Debug\net6.0\Exampel_3.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\bin\Debug\net6.0\Exampel_3.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\obj\Debug\net6.0\Exampel_3.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\obj\Debug\net6.0\Exampel_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\obj\Debug\net6.0\Exampel_3.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\obj\Debug\net6.0\Exampel_3.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\obj\Debug\net6.0\Exampel_3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\obj\Debug\net6.0\Exampel_3.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\obj\Debug\net6.0\refint\Exampel_3.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\obj\Debug\net6.0\Exampel_3.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\obj\Debug\net6.0\Exampel_3.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#_Excam\CitHW\Home_work_4\Exampel_3\obj\Debug\net6.0\ref\Exampel_3.dll
